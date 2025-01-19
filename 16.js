@@ -1,6 +1,6 @@
 
 function wynik() {
-    const hexValue = document.getElementById("input").value.toUpperCase();
+    const hexValue = document.getElementById("input").value.trim().toUpperCase();
     let decimalValue = 0;
     let power = 1;
 
