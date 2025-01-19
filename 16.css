@@ -1,0 +1,16 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.d{
+    font-size: large;
+}
+.i{
+    padding: 0px 10px 10px 0px;
+    
+}
+.v{
+    padding: 0px 10px 10px 0px;
+}
